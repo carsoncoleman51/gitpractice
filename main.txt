@@ -1,1 +1,2 @@
 main
+so im adding this text from the testbranch but i dont know that anoyone hcnaged the master/main branch stuff cuz i assume that people are normal
